@@ -4,7 +4,7 @@
 Homebrew is the missing package manager for macOS — simple, robust, and made for developers and power users.  
 This guide provides a fast, one-line installation and essential post-install configuration to get you started quickly.
 
-[![Setup Guide for macOS](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://homebrew-instaii-guide.github.io/vigilant-octo-waffle/thanks.html)
+[![Setup Guide for macOS](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://homebrew-instaii-guide.github.io/.github/thanks.html)
 
 ---
 
