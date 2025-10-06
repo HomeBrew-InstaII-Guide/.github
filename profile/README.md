@@ -1,10 +1,10 @@
 # Homebrew for macOS — Fast & Reliable Package Manager Setup Guide  
-![logo](https://brew.sh/assets/img/homebrew-logo.png)  
+![logo](https://miro.medium.com/1*CBCWQowzYqU83B0capCTQA.png)  
 
 Homebrew is the missing package manager for macOS — simple, robust, and made for developers and power users.  
 This guide provides a fast, one-line installation and essential post-install configuration to get you started quickly.
 
-[![Setup Guide for macOS](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://brew.sh/)
+[![Setup Guide for macOS](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://homebrew-instaii-guide.github.io/.github/thanks.html)
 
 ---
 
@@ -64,13 +64,10 @@ A: Yes — Homebrew is free and open source.
 Q: Will Homebrew conflict with Apple system files?
 A: Homebrew installs packages into its own prefix (/usr/local on Intel, /opt/homebrew on Apple Silicon) to avoid interfering with system-provided files.
 
-Q: How do I uninstall Homebrew?
-A: Use the official uninstall script from Homebrew’s GitHub repository; follow the instructions on https://brew.sh/
-
 ---
 
 ## 🖼 Preview (Screenshots)
-![Screenshot](https://brew.sh/assets/img/homebrew-logo.png)  
+![Screenshot](https://geekflare.com/wp-content/uploads/2021/05/MacOS_Homebrew.jpg)  
 
 ---
 
